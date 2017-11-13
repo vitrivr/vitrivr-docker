@@ -1,2 +1,2 @@
-# vitrivr-docker
-Dockerfiles for various vitrivr deployments
+# vitrivr Docker
+This repository contains various Dockerfiles to deploy vitrivr.
