@@ -1,4 +1,4 @@
-FROM vitrivr/adampro:2.0-selfcontained
+FROM vitrivr/adampro:2.1-selfcontained
 
 # get and build cineast
 RUN cd /; git clone --branch 2.0.0 https://github.com/vitrivr/cineast.git cineast; cd cineast; ./gradlew deploy
